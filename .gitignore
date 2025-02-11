@@ -1,0 +1,6 @@
+# Add this line if it's not already present
+.env.local
+node_modules/
+.next
+v0-*
+
